@@ -1,0 +1,8 @@
+
+/* center Background-Image on Index > ProjectCards*/
+.card.card-cover.h-100.overflow-hidden.text-bg-dark.rounded-4.shadow-lg{
+    background-repeat: no-repeat;
+              background-position: center center;
+              background-size: cover;
+
+}
