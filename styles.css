@@ -12,6 +12,13 @@
     
 }
 
+.img-left{
+    border: 5px;
+    border-top: 2px;
+    border-right: 2px;
+    border-bottom: 2px;
+}
+
 /*
 #theme_button{
 
