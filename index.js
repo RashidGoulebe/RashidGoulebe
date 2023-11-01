@@ -59,7 +59,7 @@ function changeBtnTheme(theme){
                 newThemeBtnClass = newThemeBtnClass + " " + element;
             }
             document.getElementById('theme_btn').className = newThemeBtnClass;
-            document.getElementById('theme_btn').innerText = "☀️"
+            document.getElementById('theme_btn').innerText = "light☀️"
         })
     }
     else{
@@ -74,7 +74,7 @@ function changeBtnTheme(theme){
                 newThemeBtnClass = newThemeBtnClass + " " + element;
             }
             document.getElementById('theme_btn').className = newThemeBtnClass;
-            document.getElementById('theme_btn').innerText = "🌙"
+            document.getElementById('theme_btn').innerText = "dark🌙"
 
         })
     }
